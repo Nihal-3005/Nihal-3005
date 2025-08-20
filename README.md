@@ -11,7 +11,7 @@
 - 💡 Driven by continuous learning and exploring cutting-edge technologies.  
 - 💬 Always eager to discuss backend design, API development, and innovative solutions.  
 - ✨ Fun Fact: Debugging is like solving a puzzle, but the pieces keep moving! 🧩  
-- 🔗 Explore my portfolio: [GitHub Projects](https://github.com/Nihal-3005)  
+- 🔗 Explore my portfolio: [GitHub Projects](https://nihal-3005.github.io/Nihal-Portfolio/)  
 
 <br>
 
