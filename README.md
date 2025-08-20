@@ -1,6 +1,5 @@
-                                                    # 🚀 Hello, I'm Nihal Muner Nadaf - Full Stack Java Developer 👨‍💻
-
-                                                            Crafting Scalable & Efficient Web Applications 🌐
+🚀 Hello, I'm Nihal Muner Nadaf - Full Stack Java Developer 👨‍💻
+Crafting Scalable & Efficient Web Applications 🌐
 
 ---
 
@@ -15,10 +14,8 @@
 
 ## 🛠 My Tech Stack
 
-go=react&logoColor=61DAFB)
-
 ### ⚙️ Backend & Database
-                                           ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🎨 Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,5 +36,17 @@ go=react&logoColor=61DAFB)
 
 ## 📊 My GitHub Insights
 
-![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nihal-3005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-3005&layout=compact&theme=radical)
+## 📊 My GitHub Insights  
+
+### 🔹 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-3005&layout=compact&theme=radical)  
+
+### 🔹 My GitHub Stats  
+![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nihal-3005&show_icons=true&theme=radical)  
+
+### 🔹 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nihal-3005&theme=radical)  
+
+### 🔹 Contributions Graph  
+![Nihal's Contributions](https://activity-graph.herokuapp.com/graph?username=Nihal-3005&theme=radical)  
+
